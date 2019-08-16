@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player_1_HeadCollider
+  - Player_1_BodyCollider
+  - Player_1_LegsCollider
+  - Player_2_HeadCollider
+  - Player_2_BodyCollider
+  - Player_2_LegsCollider
+  - Player_1_HeadDefending
+  - Player_1_BodyDefending
+  - Player_1_LegsDefending
+  - Player_2_HeadDefending
+  - Player_2_BodyDefending
+  - Player_2_LegsDefending
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
